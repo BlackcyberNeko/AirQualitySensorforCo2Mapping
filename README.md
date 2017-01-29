@@ -12,7 +12,7 @@
 </td><td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://www.youtube.com/embed/Y_Y0L3Zy1uo?wmode=transparent"></iframe>
 </td></tr>
 </table>
-<div class="TT-Torrent"> 
+<div class="TT-Torrent" align="middle"> 
 <script type="text/javascript" src="//www.tt-torrent.com/affiliate_js.php?id=519195&size=728x90"></script>
 </div>
 </body>
