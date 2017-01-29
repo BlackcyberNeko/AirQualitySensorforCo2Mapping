@@ -27,6 +27,8 @@
 <hr>
 <div class="TT-Torrent" align="middle"> 
 <script type="text/javascript" src="//www.tt-torrent.com/affiliate_js.php?id=519195&size=728x90"></script>
+<script type="text/javascript" src="//www.tt-torrent.com/affiliate_js.php?id=519195&size=468x60"></script>
+<script type="text/javascript" src="//www.tt-torrent.com/affiliate_js.php?id=519195&size=234x60"></script>
 </div>
 </body>
 </html>
