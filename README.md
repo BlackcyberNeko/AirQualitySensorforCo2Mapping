@@ -13,8 +13,11 @@
 <td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://www.youtube.com/embed/Y_Y0L3Zy1uo?wmode=transparent"></iframe></td></tr>
 </table>
 </div>
-<div class="Data Export" align="middle"> 
-<button type="button" onclick="window.location.href='https://thingspeak.com/channels/213446/feed.csv'"> Data Export</button>
+<div class="Data Export All Feed" align="middle"> 
+<h2>Data Export</h2>
+<button type="button" onclick="window.location.href='https://thingspeak.com/channels/213446/feed.csv'">.CSV</button>
+<button type="button" onclick="window.location.href='https://thingspeak.com/channels/213446/feed.xml'">.XML</button>
+<button type="button" onclick="window.location.href='https://thingspeak.com/channels/213446/feed.json'">.JSON</button>
 </div>
 <div class="TT-Torrent" align="middle"> 
 <script type="text/javascript" src="//www.tt-torrent.com/affiliate_js.php?id=519195&size=728x90"></script>
