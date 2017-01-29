@@ -1,4 +1,17 @@
 <html>
+<head>
+<style>
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+} 
+</style>
+</head>
 <body>
 <h1 align="middle" style="color:#FF00FF">Air Quality Sensor for Co2 Mapping </h1>
 <hr>
