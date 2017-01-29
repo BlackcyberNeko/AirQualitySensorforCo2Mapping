@@ -14,7 +14,7 @@
 </table>
 </div>
 <div class="Data Export" align="middle"> 
-<button type="button" onclick="https://thingspeak.com/channels/213446/feed.csv"> Data Export</button>
+<button type="button" onclick="window.location.href='https://thingspeak.com/channels/213446/feed.csv'"> Data Export</button>
 </div>
 <div class="TT-Torrent" align="middle"> 
 <script type="text/javascript" src="//www.tt-torrent.com/affiliate_js.php?id=519195&size=728x90"></script>
