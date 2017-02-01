@@ -1,9 +1,9 @@
 <html>
 <head>
-<title>Air Quality Sensor for Co2 Mapping</title>
+<title>Air Quality Sensor for Co2 Mapping.</title>
 </head>
 <body>
-<h1 align="middle" style="color:#FF00FF">Air Quality Sensor for Co2 Mapping </h1>
+<h1 align="middle" style="color:#FF00FF">Air Quality Sensor for Co2 Mapping.</h1>
 <hr>
 <div class="Table" align="middle"> 
 	<table>
