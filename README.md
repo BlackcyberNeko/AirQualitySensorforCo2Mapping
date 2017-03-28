@@ -4,10 +4,6 @@
 </head>
 <body  BGCOLOR="#FFFFFF">
 <h1 align="middle" style="color:#FF00FF">Air Quality Sensor for Co2 Mapping </h1>
-
-<hr  width="1000">
-<a align="middle" style="color:#FF00FF" a href="https://blackcyberneko.github.io/AirQualitySensorforCo2Mapping/Index.html">Air Quality</a>
-
 <hr  width="1000">
 <div class="Table" align="middle"> 
 	<table BORDER="2" BORDERCOLOR="#FF00FF">
