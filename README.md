@@ -6,7 +6,7 @@
 <h1 align="middle" style="color:#FF00FF">Air Quality Sensor for Co2 Mapping </h1>
 <hr  width="1000">
 <div class="Table" align="middle"> 
-	<table BORDER="5" BORDERCOLOR="#FF00FF">
+	<table BORDER="2" BORDERCOLOR="#FF00FF">
 <tr><th><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/213446/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=15&type=line"></iframe></th>
 <th><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/213446/charts/2?bgcolor=%23ffffff&color=%2366ff33&dynamic=true&results=15&type=line"></iframe></th></tr>
 <tr><td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/213446/charts/3?bgcolor=%23ffffff&color=%23000000&dynamic=true&results=15&type=line"></iframe></td>
