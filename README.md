@@ -2,7 +2,7 @@
 <head>
 <title>Air Quality Sensor for Co2 Mapping</title>
 </head>
-<body style="background-color:yellowgreen">
+<body style="background-color:#FFFFFF;">
 <h1 align="middle" style="color:#FF00FF">Air Quality Sensor for Co2 Mapping </h1>
 <hr  width="1000">
 <div class="Table" align="middle"> 
