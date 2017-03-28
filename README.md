@@ -14,7 +14,8 @@
 <tr><td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/213446/charts/5?bgcolor=%23ffffff&color=%230000ff&dynamic=true&results=15&type=line"></iframe></td>
 <td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/213446/charts/6?bgcolor=%23ffffff&color=%2300ffff&dynamic=true&results=15&type=line"></iframe></td></tr>
 <tr><td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/213446/charts/7?bgcolor=%23ffffff&color=%23663300&dynamic=true&results=15&type=line"></iframe></td>
-<td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://www.youtube.com/embed/Y_Y0L3Zy1uo?wmode=transparent"></iframe></td></tr>
+<!--<td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://www.youtube.com/embed/Y_Y0L3Zy1uo?wmode=transparent"></iframe></td></tr>-->
+<td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://www.esrl.noaa.gov/gmd/ccgg/trends/ff.mp4"></iframe></td></tr>
 </table>
 </div>
 <hr width="1000">
