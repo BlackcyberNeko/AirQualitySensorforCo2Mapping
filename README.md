@@ -24,7 +24,9 @@
 <button type="button" onclick="window.location.href='https://thingspeak.com/channels/213446/feed.csv'">.CSV</button>
 <button type="button" onclick="window.location.href='https://thingspeak.com/channels/213446/feed.xml'">.XML</button>
 <button type="button" onclick="window.location.href='https://thingspeak.com/channels/213446/feed.json'">.JSON</button>
+<button type="button" onclick="window.location.href='http://www.gpsvisualizer.com/display/20170517061221-33031-map.html'"> DATA ON MAP</button>
 </div>
+
 <hr  width="1000">
 <div class="TT-Torrent" align="middle"> 
 <script type="text/javascript" src="//www.tt-torrent.com/affiliate_js.php?id=519195&size=728x90"></script>
