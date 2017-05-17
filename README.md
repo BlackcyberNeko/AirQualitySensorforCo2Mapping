@@ -14,8 +14,8 @@
 <tr><td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/213446/charts/5?bgcolor=%23ffffff&color=%230000ff&dynamic=true&results=15&type=line"></iframe></td>
 <td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/213446/charts/6?bgcolor=%23ffffff&color=%2300ffff&dynamic=true&results=15&type=line"></iframe></td></tr>
 <tr><td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/213446/charts/7?bgcolor=%23ffffff&color=%23663300&dynamic=true&results=15&type=line"></iframe></td>
-<td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="http://www.gpsvisualizer.com/display/20170517061221-33031-map.html"></iframe></td></tr>
-<!--<td><script src="//embed.flowplayer.org/5.5.0/embed.min.js"><div class="flowplayer" data-origin="https://www.esrl.noaa.gov/gmd/ccgg/trends/ff.html" data-rtmp="0" style="width: 450px; height: 260px;"><video><source type="video/mp4" src="https://www.esrl.noaa.gov/gmd/ccgg/trends/ff.mp4"><source type="video/webm" src="https://www.esrl.noaa.gov/gmd/ccgg/trends/ff.webm"></video></div></script></td></tr>-->
+<!--<td><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="http://www.gpsvisualizer.com/display/20170517061221-33031-map.html"></iframe></td></tr>-->
+<td><script src="//embed.flowplayer.org/5.5.0/embed.min.js"><div class="flowplayer" data-origin="https://www.esrl.noaa.gov/gmd/ccgg/trends/ff.html" data-rtmp="0" style="width: 450px; height: 260px;"><video><source type="video/mp4" src="https://www.esrl.noaa.gov/gmd/ccgg/trends/ff.mp4"><source type="video/webm" src="https://www.esrl.noaa.gov/gmd/ccgg/trends/ff.webm"></video></div></script></td></tr>
 </table>
 </div>
 <hr width="1000">
