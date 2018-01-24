@@ -32,6 +32,7 @@
 <script type="text/javascript" src="//www.tt-torrent.com/affiliate_js.php?id=519195&size=728x90"></script>
 <script type="text/javascript" src="//www.tt-torrent.com/affiliate_js.php?id=519195&size=468x60"></script>
 <script type="text/javascript" src="//www.tt-torrent.com/affiliate_js.php?id=519195&size=234x60"></script>
+<a href="http://faucethub.io/r/34212174"><img src="http://faucethub.io/assets/img/banners/1.gif"></a>
 </div>
 </body>
 </html>
