@@ -33,6 +33,9 @@
 <script type="text/javascript" src="//www.tt-torrent.com/affiliate_js.php?id=519195&size=468x60"></script>
 <script type="text/javascript" src="//www.tt-torrent.com/affiliate_js.php?id=519195&size=234x60"></script>
 <a href="https://world-mining.net/284256662/"><img src="https://world-mining.net/invites/en/2.gif"/></a>
+<a href="https://cloudmy.cc/?ref=thananat1"><img src="https://cloudmy.cc/images/banner-728x90-en.gif"></a>
+<a href="https://www.spacemining.io/?ref=124577" alt="SpaceMining Banner"><img src="https://www.spacemining.io/assets/images/banner/b1.gif"></a>
+<a href="https://zoxtel.com/?r=521625"><img src="https://zoxtel.com/728x90.gif"></a>
 <a href="http://faucethub.io/r/34212174"><img src="http://faucethub.io/assets/img/banners/1.gif"></a>
 </div>
 </body>
