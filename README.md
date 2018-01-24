@@ -36,6 +36,7 @@
 <a href="https://cloudmy.cc/?ref=thananat1"><img src="https://cloudmy.cc/images/banner-728x90-en.gif"></a>
 <a href="https://www.spacemining.io/?ref=124577" alt="SpaceMining Banner"><img src="https://www.spacemining.io/assets/images/banner/b1.gif"></a>
 <a href="https://zoxtel.com/?r=521625"><img src="https://zoxtel.com/728x90.gif"></a>
+[center][url=https://freebitco.in/?r=11467928][b][size=15pt][color=red]Win Free Bitcoins every hour! - [/color][color=green]www.freebitco.in[/color][/size][/b][/url][/center]
 <a href="http://faucethub.io/r/34212174"><img src="http://faucethub.io/assets/img/banners/1.gif"></a>
 </div>
 </body>
